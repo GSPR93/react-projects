@@ -1,4 +1,3 @@
- (28 sloc) 442 Bytes
 const todosData = [
     {
         id: 1,
